@@ -1,0 +1,64 @@
+{
+    "trees": [
+        {
+            "id": 1,
+            "name": "Oak",
+            "height": 20,
+            "age": 50
+        },
+        {
+            "id": 2,
+            "name": "Maple",
+            "height": 18,
+            "age": 40
+        },
+        {
+            "id": 3,
+            "name": "Pine",
+            "height": 15,
+            "age": 30
+        },
+        {
+            "id": 4,
+            "name": "Birch",
+            "height": 12,
+            "age": 25
+        },
+        {
+            "id": 5,
+            "name": "Willow",
+            "height": 10,
+            "age": 20
+        },
+        {
+            "id": 6,
+            "name": "Fir",
+            "height": 8,
+            "age": 15
+        },
+        {
+            "id": 7,
+            "name": "Cedar",
+            "height": 7,
+            "age": 13
+        },
+        {
+            "id": 8,
+            "name": "Redwood",
+            "height": 25,
+            "age": 100
+        },
+        {
+            "id": 9,
+            "name": "Palm",
+            "height": 5,
+            "age": 10
+        },
+        {
+            "id": 10,
+            "name": "Cypress",
+            "height": 6,
+            "age": 12
+        }
+    ]
+}

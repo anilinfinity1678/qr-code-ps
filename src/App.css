@@ -1,0 +1,41 @@
+ul {
+  list-style-type: none;
+}
+
+ol{
+  margin-left: 10px;
+}
+.for-whole{
+  margin: 0px;
+  padding-right: 15px;
+  width: 85vw;
+  background-size: cover;
+  background-image: url("https://66.media.tumblr.com/06911ceb92bf757cb2334d591bb68a26/tumblr_nuo8omwrpP1tq7o0to1_640.jpg") ;
+  background-repeat: no-repeat;
+  opacity: 0.5px;
+}
+
+.for-hightlighting-fetcheddata{
+  font-weight: bold;
+  color: white;
+  font-style: italic;
+}
+
+.for-data{
+  color: whitesmoke;
+  padding-right: 30px;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.for-highlighting{
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.for-heading{
+  margin-left: 25px;
+}
+
+li {
+  margin-bottom: 10px; /* Adjust the value to set the desired gap */
+}
